@@ -1,8 +1,18 @@
 {
   "recommendations": [
+    // Narwol/NX specific
     "nrwl.angular-console",
+
+    // For auto formatting
     "esbenp.prettier-vscode",
-    "dbaeumer.vscode-eslint",
+    // "dbaeumer.vscode-eslint", Unsure about this just yet
+    "styled-components.vscode-styled-components",
+    "GraphQL.vscode-graphql",
+
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+
+    // To run tests individually
     "firsttris.vscode-jest-runner"
   ]
 }
